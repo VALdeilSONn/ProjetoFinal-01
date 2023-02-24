@@ -1,0 +1,9 @@
+h1{
+    padding: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img{
+    display: flex;
+    justify-content: center;
+    }

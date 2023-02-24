@@ -1,0 +1,21 @@
+{
+  "name": "caso1",
+  "version": "1.0.0",
+  "description": "1. `npm init -y` para inicar o npm 2. `npm install cors express sqlite3` 3. `npm install --save-dev nodemon` Para instalar como dependência de desenvolvimento 4. Adicionar no package.json o seguinte script:",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon ./src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
